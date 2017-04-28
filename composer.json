@@ -6,6 +6,6 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "relaxedws/replicator": "dev-experimental"
+    "relaxedws/replicator": "dev-experimental as dev-master"
   }
 }
